@@ -38,8 +38,15 @@ https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoCol
 https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauarabelo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauarabelo&show_icons=true&theme=radical)
+
+<!-- Estatisticas -->
+
+<p align= center >
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauarabelo&layout=compact&theme=radical" width="300"></a>
+
+  <a><img src="https://github-readme-stats.vercel.app/api?username=Kauarabelo&show_icons=true&theme=radical" width="300"></a>
+</p>
+
 
 <!-- Projetos em Andamento -->
 
