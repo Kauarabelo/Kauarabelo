@@ -41,11 +41,29 @@ https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauarabelo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauarabelo&show_icons=true&theme=radical)
 
+<!-- Projetos em Andamento -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kauarabelo&repo=ProjetoSistema_Cerveja&theme=radical)](https://github.com/Kauarabelo/ProjetoSistema_Cerveja)
+<h2 align = center>
+  Projetos em Andamento
+</h2>
 
-## Contato
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kauarabelo&repo=ProjetoSistema_Cerveja&theme=radical)](https://github.com/Kauarabelo/ProjetoSistema_Cerveja)
 
-<a href="https://www.linkedin.com/in/Kauarabelo">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- Rodape -->
+
+<h2 align = center>
+  Contato 
+</h2>
+
+<div align = center>
+  <a href="https://www.linkedin.com/in/Kauarabelo">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+
+  <p>
+    Email: 
+    <a href="kauarabelo1@gmail.com">
+      kauarabelo1@gmail.com
+    </a>
+  </p>
+</div>
