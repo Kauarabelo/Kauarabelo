@@ -1,7 +1,16 @@
 
 
-<h1 align= center> Welcome <br> Perfil de Kauã Rabelo</h1>
+<h1 align = center>💡 Welcome 💡<br><br> Perfil de Kauã Rabelo</h1>
 
+<p align = center>Desenvolvedor junior - Cursando Desenvolvimento de Sistemas - Senai SJC</p>
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 
 
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
