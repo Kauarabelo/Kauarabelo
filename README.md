@@ -1,15 +1,32 @@
 
 
-<h1 align = center>💡 Welcome 💡<br><br> Perfil de Kauã Rabelo</h1>
+<h1 align = center>
+  💡 Welcome 💡
+  <br><br> 
+  Perfil de Kauã Rabelo
+</h1>
 
-<p align = center>Desenvolvedor junior - Cursando Desenvolvimento de Sistemas - Senai SJC</p>
+<p align = center>
+  Desenvolvedor junior - Cursando Desenvolvimento de Sistemas - Senai SJC
+</p>
+
+<p align = center>
+  <a href="https://www.linkedin.com/in/Kauarabelo">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://instagram.com/Kauarabelo">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=black" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 <p align='center'>
+  <br>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=black" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=black" />
 </p>
 
 
