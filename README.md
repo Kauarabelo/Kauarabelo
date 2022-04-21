@@ -41,11 +41,11 @@ https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=a
 
 <!-- Estatisticas -->
 
-<p align= center >
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauarabelo&layout=compact&theme=radical" width="300"></a>
+<div align= center >
+  <a href = '#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauarabelo&layout=compact&theme=radical" width="300"></a>
 
-  <a><img src="https://github-readme-stats.vercel.app/api?username=Kauarabelo&show_icons=true&theme=radical" width="300"></a>
-</p>
+  <a href = '#'><img src="https://github-readme-stats.vercel.app/api?username=Kauarabelo&show_icons=true&theme=radical" width="300"></a>
+</div>
 
 
 <!-- Projetos em Andamento -->
