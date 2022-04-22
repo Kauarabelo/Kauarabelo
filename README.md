@@ -29,16 +29,6 @@
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=black" />
 </p>
 
-
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white
-
-
 <!-- Estatisticas -->
 
 <div align= center >
@@ -49,13 +39,36 @@ https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=a
 
 
 <!-- Projetos em Andamento -->
-
-<h2 align = center>
+<details>
+  <summary><h2 align = center>
   Projetos em Andamento
-</h2>
+</h2></summary>
+</details>
+  
+
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kauarabelo&repo=ProjetoSistema_Cerveja&theme=radical)](https://github.com/Kauarabelo/ProjetoSistema_Cerveja)
+  
+<!-- Skills -->
 
+<h2 align = center>
+  Linguagens em Aprendizado
+</h2>
+
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+  ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)
+  ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
+
+<h2 align = center>
+  IDEs
+</h2>
+
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black)
+![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=black)
+
+  
 <!-- Rodape -->
 
 <h2 align = center>
