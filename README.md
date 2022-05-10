@@ -47,6 +47,10 @@
 </h2>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kauarabelo&repo=ProjetoSistema_Cerveja&theme=radical)](https://github.com/Kauarabelo/ProjetoSistema_Cerveja)
+    
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kauarabelo&repo=bookstoreweb&theme=radical)](https://github.com/Kauarabelo/bookstoreweb)
+    
+    
   
 <br>
   
