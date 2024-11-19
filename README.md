@@ -7,7 +7,8 @@
 </h1>
 
 <p align = center>
-  Desenvolvedor junior - Cursando Desenvolvimento de Sistemas - Senai SJC
+  Desenvolvedor Full Stack Jr. - Cursando Banco de Dados - FATEC SJC
+  Técnico em Análise e Desenvolvimento de Sistemas - Senai SJC
 </p>
 
 <p align = center>
