@@ -7,7 +7,7 @@
 </h1>
 
 <p align = center>
-  Desenvolvedor Full Stack Jr. - Cursando Banco de Dados - FATEC SJC
+  Desenvolvedor Full Stack Jr. - Cursando Banco de Dados - FATEC SJC <br>
   Técnico em Análise e Desenvolvimento de Sistemas - Senai SJC
 </p>
 
