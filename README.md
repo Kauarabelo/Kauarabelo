@@ -26,7 +26,7 @@
   <br>
   💻 My workspace<br/><br/>
   <a href = '#'><img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=black" /></a>
-  <a href = '#'><img src="https://img.shields.io/badge/intel-core%20i5%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=black" /></a>
+  <a href = '#'><img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=black" /></a>
   <a href = '#'><img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=black" /></a>
 </p>
 
