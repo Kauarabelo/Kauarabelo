@@ -49,9 +49,9 @@
     
 <div align = "center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kauarabelo&repo=ProjetoSistema_Cerveja&theme=radical)](https://github.com/Kauarabelo/ProjetoSistema_Cerveja)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kauarabelo&repo=FGTI&theme=radical)](https://github.com/Kauarabelo/FGTI)
     
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kauarabelo&repo=bookstoreweb&theme=radical)](https://github.com/Kauarabelo/bookstoreweb)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kauarabelo&repo=TrabalhoFinalPOO&theme=radical)](https://github.com/Kauarabelo/TrabalhoFinalPOO)
     
 </div>
   
