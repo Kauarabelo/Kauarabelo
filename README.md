@@ -25,7 +25,7 @@
 ### 🛠️ My Workspace
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apple_M1_Pro-333333?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple_M1-333333?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-333333?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SSD-1TB-333333?style=for-the-badge&logoColor=white" />
 </div>
