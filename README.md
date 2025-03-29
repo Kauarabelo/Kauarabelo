@@ -80,7 +80,7 @@
   <a href="https://www.linkedin.com/in/Kauarabelo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/SEU_NUMERO_AQUI">
+  <a href="https://wa.me/+5512988574115">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:kauarabelo1@gmail.com">
